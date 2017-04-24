@@ -15,26 +15,6 @@ var {
 
 var NewsItem = require('./NewsItem')
 var NewsDatas = require('../datas/NewsDatas')
-
-console.log(NewsDatas);
-
-// var feed = require('feed-read-parser');
-// var NewsDatas = [];
-// feed("http://feeds.bbci.co.uk/vietnamese/rss.xml", function(err, articles) {
-//   if (err) throw err;
-//   // console.log(articles);
-  
-//   var i = 0;
-//   while (i < articles.length){
-//     NewsDatas.push({
-//         title: articles[i].title,
-//     });
-    
-//     i++;
-//   }
-//     //console.log(NewsDatas);
-// });
-
 var NewsDetailScreen = require('./NewsDetailScreen')
 
 class NewsListScreen extends React.Component {

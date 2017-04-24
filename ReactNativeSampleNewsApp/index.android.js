@@ -11,7 +11,8 @@ var {
   ToolbarAndroid,
   View,
 } = ReactNative;
-
+require('./app/components/DownloadData')
+require('./app/components/SaveData')
 var NewsListScreen = require('./app/components/NewsListScreen')
 var NewsDetailScreen = require('./app/components/NewsDetailScreen')
 

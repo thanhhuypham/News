@@ -9,50 +9,82 @@
             <link>http://www.bbcvietnamese.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 23 Apr 2017 03:46:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2017 06:30:10 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright British Broadcasting Corporation ]]></copyright>
         <language><![CDATA[vi]]></language>
         <managingEditor><![CDATA[vietnamese@bbc.co.uk]]></managingEditor>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Pháp chuẩn bị bầu cử tổng thống khi an ninh thắt chặt]]></title>
-            <description><![CDATA[Hàng ngàn cảnh sát được điều động khi người dân Pháp bỏ phiếu cho cuộc bầu cử tổng thống căng thẳng này.]]></description>
+            <title><![CDATA[Bầu cử tổng thống Pháp: Macron và Le Pen vào vòng hai]]></title>
+            <description><![CDATA[Ứng viên theo đường lối trung lập Emmanuel Macron sẽ đối đầu với lãnh đạo phe thiên hữu Marine Le Pen trong vòng hai vào ngày 7/5 tới đây.]]></description>
+            <link>http://www.bbc.com/vietnamese/world-39688663</link>
+            <guid isPermaLink="true">http://www.bbc.com/vietnamese/world-39688663</guid>
+            <pubDate>Sun, 23 Apr 2017 20:21:40 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/9259/production/_95756473_elections-composite.gif"/>
+        </item>
+        <item>
+            <title><![CDATA[Nông dân Ấn Độ ngừng biểu tình]]></title>
+            <description><![CDATA[Cuộc biểu tình kéo dài 40 ngày sử dụng đầu lâu người và chuột sống đã gây chú ý giữa khủng hoảng nông nghiệp tại Ấn Độ.]]></description>
+            <link>http://www.bbc.com/vietnamese/world-39689807</link>
+            <guid isPermaLink="true">http://www.bbc.com/vietnamese/world-39689807</guid>
+            <pubDate>Mon, 24 Apr 2017 05:35:43 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/F3BB/production/_95759326_1f34c1ac-3b14-4ffa-a521-863ead822f41.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Đại học Bắc Hàn tiết lộ danh tính công dân Mỹ]]></title>
+            <description><![CDATA[Ông Kim Sang-duk, hay còn được gọi là Tony Kim, đã giảng dạy tại một trường đại học Bắc Hàn trước khi bị bắt giữ.]]></description>
+            <link>http://www.bbc.com/vietnamese/world-39689799</link>
+            <guid isPermaLink="true">http://www.bbc.com/vietnamese/world-39689799</guid>
+            <pubDate>Mon, 24 Apr 2017 03:10:55 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/16503/production/_95759319_e6cf7b11-be67-43df-a4da-9c3d0848c499.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tổng thống Venezuela kêu gọi đối thoại với phe đối lập]]></title>
+            <description><![CDATA[Tổng thống Nicolas Maduro tìm kiếm đối thoại với phe đối lập giữa các làn sống biểu tình chống chính phủ.]]></description>
+            <link>http://www.bbc.com/vietnamese/world-39689803</link>
+            <guid isPermaLink="true">http://www.bbc.com/vietnamese/world-39689803</guid>
+            <pubDate>Mon, 24 Apr 2017 04:18:35 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/577B/production/_95759322_8a71a9e4-f249-42a7-acaf-4445c0a57911.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tương lai bất định của dân chủ]]></title>
+            <description><![CDATA[Có lẽ thách thức lớn nhất của phương Tây là gìn giữ được sự ổn định hậu chiến mà nó đã tồn tại hơn một nửa thế kỷ.]]></description>
+            <link>http://www.bbc.com/vietnamese/vert-fut-39622717</link>
+            <guid isPermaLink="true">http://www.bbc.com/vietnamese/vert-fut-39622717</guid>
+            <pubDate>Sun, 23 Apr 2017 11:23:25 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/180CB/production/_95670589_p04yg3n1-1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Đồng Tâm: 'Ta đã thấy gì trong hôm nay?']]></title>
+            <description><![CDATA[Nhà báo tự do, blogger Đoan Trang viết về các mâu thuẫn trong xã hội Việt Nam được bộc lộ rõ trong vụ Đồng Tâm.]]></description>
+            <link>http://www.bbc.com/vietnamese/vietnam-39684300</link>
+            <guid isPermaLink="true">http://www.bbc.com/vietnamese/vietnam-39684300</guid>
+            <pubDate>Sun, 23 Apr 2017 13:31:54 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/95C9/production/_95754383_039106310-1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chính quyền Trump không cho phép ExxonMobil khoan dầu ở Nga]]></title>
+            <description><![CDATA[Bộ Ngân khố Mỹ không cho phép hãng dầu Mỹ khổng lồ ExxonMobil 'vượt rào' lệnh trừng phạt Nga.]]></description>
+            <link>http://www.bbc.com/vietnamese/world-39684292</link>
+            <guid isPermaLink="true">http://www.bbc.com/vietnamese/world-39684292</guid>
+            <pubDate>Sun, 23 Apr 2017 12:43:52 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/48CB/production/_95753681_037901002-1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cập nhật bầu cử tổng thống Pháp vòng một]]></title>
+            <description><![CDATA[Ước tính sẽ có khoảng 80% cử tri đi bầu trong cuộc bầu cử khó đoán định kết quả nhất tại Pháp trong nhiều năm.]]></description>
             <link>http://www.bbc.com/vietnamese/world-39683322</link>
             <guid isPermaLink="true">http://www.bbc.com/vietnamese/world-39683322</guid>
-            <pubDate>Sun, 23 Apr 2017 03:44:19 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/11FD/production/_95750640_13b1bccc-73cc-4d16-9cd5-dad8a7cbd9bc.jpg"/>
+            <pubDate>Sun, 23 Apr 2017 11:17:50 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/D507/production/_95753545_22e131b9-afa2-4a5d-b944-80ba1ad95122.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Tấn công căn cứ quân sự Afghanistan làm 100 lính chết]]></title>
-            <description><![CDATA[Các tay súng Taliban đi qua bốt canh gác với đồng phục giả lính và giết hơn 100 người]]></description>
-            <link>http://www.bbc.com/vietnamese/world-39679759</link>
-            <guid isPermaLink="true">http://www.bbc.com/vietnamese/world-39679759</guid>
-            <pubDate>Sat, 22 Apr 2017 12:54:50 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/84FC/production/_95744043_mediaitem95744042.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tháng Tư những mất và còn]]></title>
-            <description><![CDATA[Ý kiến nói dù bị ngăn cấm và đã có những chiến dịch càn quét nhưng văn hoá Việt Nam Cộng hòa đã không mất đi mà còn được yêu thích.]]></description>
-            <link>http://www.bbc.com/vietnamese/forum-39661721</link>
-            <guid isPermaLink="true">http://www.bbc.com/vietnamese/forum-39661721</guid>
-            <pubDate>Fri, 21 Apr 2017 13:24:14 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/6B47/production/_95736472_buivanphu_khanhly.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Đồng Tâm 'cần trung gian của xã hội dân sự']]></title>
-            <description><![CDATA[LS Lê Công Định tin rằng để giải quyết vấn đề ở Đồng Tâm cần giải quyết tận gốc rế̃ và cần có trung gian của xã hội dân sự và các chuyên gia pháp lý.]]></description>
-            <link>http://www.bbc.com/vietnamese/vietnam-39673223</link>
-            <guid isPermaLink="true">http://www.bbc.com/vietnamese/vietnam-39673223</guid>
-            <pubDate>Fri, 21 Apr 2017 22:57:43 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/0639/production/_95739510_lecongdinhgettyimages-471402334.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TQ đổi tên các quận ở vùng tranh chấp với Ấn Độ]]></title>
-            <description><![CDATA[Quyết định của Bắc Kinh được coi là nhằm "trả đũa" việc New Delhi để Đức Đạt Lai Lạt Ma tới thăm bang Arunachal Pradesh ở đông bắc Ấn Độ.]]></description>
-            <link>http://www.bbc.com/vietnamese/world-39676859</link>
-            <guid isPermaLink="true">http://www.bbc.com/vietnamese/world-39676859</guid>
-            <pubDate>Fri, 21 Apr 2017 23:55:03 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1755B/production/_95697559_477b6b33-c89d-4bbc-9328-05dff7de9485.jpg"/>
+            <title><![CDATA[Bắc Hàn bắt giữ công dân Mỹ tại sân bay Bình Nhưỡng]]></title>
+            <description><![CDATA[Một công dân Mỹ mới bị Bắc Hàn bắt giữ khi ông này đang tìm cách ra khỏi nước này khi tình hình ở bán đảo Triều Tiên vẫn căng thẳng.]]></description>
+            <link>http://www.bbc.com/vietnamese/world-39684293</link>
+            <guid isPermaLink="true">http://www.bbc.com/vietnamese/world-39684293</guid>
+            <pubDate>Sun, 23 Apr 2017 09:23:14 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/14131/production/_95752228_a246d6b1-0292-4123-bf57-7c161e0c862c.jpg"/>
         </item>
         <item>
             <title><![CDATA[Jean-Marie Le Pen từng khóc khi mất Điện Biên]]></title>
@@ -63,28 +95,20 @@
             <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/E5E5/production/_95735885_jeanmarielepengettyimages-51350228.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Tấn công căn cứ quân sự Afghanistan làm 100 lính chết]]></title>
+            <description><![CDATA[Các tay súng Taliban đi qua bốt canh gác với đồng phục giả lính và giết hơn 100 người]]></description>
+            <link>http://www.bbc.com/vietnamese/world-39679759</link>
+            <guid isPermaLink="true">http://www.bbc.com/vietnamese/world-39679759</guid>
+            <pubDate>Sat, 22 Apr 2017 12:54:50 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/84FC/production/_95744043_mediaitem95744042.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Ông Võ Kim Cự bị cách chức nguyên Bí thư Tỉnh uỷ Hà Tĩnh]]></title>
             <description><![CDATA[Nguyên Bí thư Tỉnh uỷ Hà Tĩnh bị Đảng Cộng sản quy 'chịu trách nhiệm chính' cho các sai phạm tại tỉnh dẫn đến sự cố môi trường của Formosa Đài Loan.]]></description>
             <link>http://www.bbc.com/vietnamese/vietnam-39669487</link>
             <guid isPermaLink="true">http://www.bbc.com/vietnamese/vietnam-39669487</guid>
             <pubDate>Fri, 21 Apr 2017 12:55:04 GMT</pubDate>
             <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1F60/production/_95723080_gettyimages-492369717.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tay súng Paris là 'trọng tâm điều tra chống khủng bố']]></title>
-            <description><![CDATA[Tay súng bắn chết một cảnh sát ở Paris, hôm 20/4 được nhận diện từ các giấy tờ trong xe ông ta, nhưng giới chức Pháp chưa công bố danh tính người này.]]></description>
-            <link>http://www.bbc.com/vietnamese/world-39662864</link>
-            <guid isPermaLink="true">http://www.bbc.com/vietnamese/world-39662864</guid>
-            <pubDate>Thu, 20 Apr 2017 21:28:33 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/111AE/production/_95726007_mediaitem95726004.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mỹ: Sân bay Los Angeles không phát hiện súng]]></title>
-            <description><![CDATA[Một nữ cảnh sát trong khi không thực thi công vụ đã bay từ sân bay quốc tế Los Angeles (LAX) và mang theo một súng ngắn mà không bị phát hiện ở sân bay.]]></description>
-            <link>http://www.bbc.com/vietnamese/world-39650553</link>
-            <guid isPermaLink="true">http://www.bbc.com/vietnamese/world-39650553</guid>
-            <pubDate>Fri, 21 Apr 2017 03:14:46 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/13D82/production/_95728218_0a79a02b-774f-40ae-bae7-d4e187228a20.jpg"/>
         </item>
         <item>
             <title><![CDATA[Gia đình ông Kình 'bác thông tin chính quyền về ông']]></title>
@@ -119,36 +143,12 @@
             <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/5ADD/production/_95716232_hi039057322.jpg"/>
         </item>
         <item>
-            <title><![CDATA[TQ yêu cầu Interpol bắt tỉ phú 'trốn chạy']]></title>
-            <description><![CDATA[Trung Quốc tuyên bố Interpol đã phát 'truy nã đỏ' để bắt một tỉ phú phê phán chính phủ ở Bắc Kinh.]]></description>
-            <link>http://www.bbc.com/vietnamese/world-39654610</link>
-            <guid isPermaLink="true">http://www.bbc.com/vietnamese/world-39654610</guid>
-            <pubDate>Thu, 20 Apr 2017 10:00:56 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/136A1/production/_95712597_gettyimages-469556602.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Vụ Đồng Tâm có thêm diễn biến phức tạp?]]></title>
             <description><![CDATA[Nhân chứng nói với BBC đã có vụ 'tấn công' vào làng sau khi một số phóng viên vào hiện trường trong ngày đã đưa tin về 'không khí căng thẳng'.]]></description>
             <link>http://www.bbc.com/vietnamese/vietnam-39646209</link>
             <guid isPermaLink="true">http://www.bbc.com/vietnamese/vietnam-39646209</guid>
             <pubDate>Wed, 19 Apr 2017 17:01:58 GMT</pubDate>
             <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/0A6F/production/_95717620_gettyimages-670608826.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Biểu tình ở Venezuela: ba người bị giết]]></title>
-            <description><![CDATA[Ít nhất ba người bị giết trong các cuộc biểu tình chống chính phủ Nicolas Maduro ở Venezuela.]]></description>
-            <link>http://www.bbc.com/vietnamese/world-39650560</link>
-            <guid isPermaLink="true">http://www.bbc.com/vietnamese/world-39650560</guid>
-            <pubDate>Thu, 20 Apr 2017 03:45:30 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/452F/production/_95711771_b6c92080-2e3e-40b7-b5c7-1d511f456db3.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trung Quốc 'hết sức quan ngại' về đe dọa hạt nhân Bắc Hàn]]></title>
-            <description><![CDATA[Người phát ngôn Bộ Ngoại giao Lục Khảng nói Trung Quốc phản đối những lời nói và hành động làm căng thẳng thêm tình hình ở bán đảo Triều Tiên.]]></description>
-            <link>http://www.bbc.com/vietnamese/world-39646296</link>
-            <guid isPermaLink="true">http://www.bbc.com/vietnamese/world-39646296</guid>
-            <pubDate>Wed, 19 Apr 2017 16:41:57 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/11F58/production/_95706537_8daefdac-ede1-40f8-903d-828c41934453.jpg"/>
         </item>
         <item>
             <title><![CDATA[‘Dân Đồng Tâm không chống phá chính quyền’]]></title>
@@ -159,14 +159,6 @@
             <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/AC00/production/_95723044_hi039082511.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Trump ra sắc lệnh siết thị thực lao động tay nghề cao]]></title>
-            <description><![CDATA[Mỹ sẽ xem xét lại chương trình visa cấp cho người lao động nước ngoài trong các ngành nghề đòi hỏi chuyên môn cao ở Mỹ.]]></description>
-            <link>http://www.bbc.com/vietnamese/world-39638223</link>
-            <guid isPermaLink="true">http://www.bbc.com/vietnamese/world-39638223</guid>
-            <pubDate>Wed, 19 Apr 2017 04:19:25 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/F595/production/_95696826_30b14ec2-a100-49c5-bcb9-417ab4043339.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Đất đai Đồng Tâm ‘rối như canh hẹ’ từ lâu]]></title>
             <description><![CDATA[Báo chí Việt Nam từ mấy năm qua đã nêu về 'bức xúc đất đai' ở xã Đồng Tâm, huyện Mỹ Đức, Hà Nội vì vấn đề họ nói là 'nhập nhằng đất quốc phòng và đất nông nghiệp'.]]></description>
             <link>http://www.bbc.com/vietnamese/vietnam-39641102</link>
@@ -175,20 +167,12 @@
             <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/0456/production/_95701110_my_duc_yquw.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Mỹ cáo buộc Iran 'khiêu khích đáng báo động']]></title>
-            <description><![CDATA[Ngoại trưởng Mỹ Rex Tillerson cáo buộc Iran "tiếp diễn những hành động khiêu khích đáng báo động" gây bất ổn ở Trung Đông và làm tổn hại lợi ích của Mỹ.]]></description>
-            <link>http://www.bbc.com/vietnamese/world-39650550</link>
-            <guid isPermaLink="true">http://www.bbc.com/vietnamese/world-39650550</guid>
-            <pubDate>Thu, 20 Apr 2017 03:10:53 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/16257/production/_95711709_45b9c965-e131-4a07-b41b-830069af8253.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['Đất đai là thiêng liêng đối với nông dân']]></title>
-            <description><![CDATA["Đất đai với người nông dân là thiêng liêng, người ta sẵn sàng sống chết vì mảnh đất đó," Tiến sỹ Hoàng Ngọc Giao lý giải câu chuyện Đồng Tâm.]]></description>
-            <link>http://www.bbc.com/vietnamese/vietnam-39668132</link>
-            <guid isPermaLink="true">http://www.bbc.com/vietnamese/vietnam-39668132</guid>
-            <pubDate>Fri, 21 Apr 2017 14:59:33 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/17AB9/production/_95735969_gettyimages-635589102.jpg"/>
+            <title><![CDATA[Giảm hơn 200kg nhờ cắt dạ dày]]></title>
+            <description><![CDATA[Nhờ phẫu thuật cắt 1/3 dạ dày, cô gái người Ai Cập Eman Adb El Aty giờ không còn là người nặng ký nhất thế giới nữa]]></description>
+            <link>http://www.bbc.com/vietnamese/world-39686867</link>
+            <guid isPermaLink="true">http://www.bbc.com/vietnamese/world-39686867</guid>
+            <pubDate>Sun, 23 Apr 2017 15:06:39 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/804D/production/_95754823_p050x68c.jpg"/>
         </item>
         <item>
             <title><![CDATA[Trả tự do Trưởng ban Tuyên giáo huyện Mỹ Đức]]></title>
@@ -239,12 +223,12 @@
             <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/8450/production/_95627833_p05013qt.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Chính sách đất đai và câu chuyện Đồng Tâm]]></title>
-            <description><![CDATA[Tọa đàm của các tổ chức dân sự tại Hà Nội nói tới thực trạng chính sách và luật đất đai trong bối cảnh tranh chấp đất đai tại Đồng Tâm vẫn tiếp tục căng thẳng.]]></description>
-            <link>http://www.bbc.com/vietnamese/vietnam-39671333</link>
-            <guid isPermaLink="true">http://www.bbc.com/vietnamese/vietnam-39671333</guid>
-            <pubDate>Fri, 21 Apr 2017 15:34:04 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/FAB7/production/_95738146_land_dialogue_panel.png"/>
+            <title><![CDATA[Tháng Tư những mất và còn]]></title>
+            <description><![CDATA[Ý kiến nói dù bị ngăn cấm và đã có những chiến dịch càn quét nhưng văn hoá Việt Nam Cộng hòa đã không mất đi mà còn được yêu thích.]]></description>
+            <link>http://www.bbc.com/vietnamese/forum-39661721</link>
+            <guid isPermaLink="true">http://www.bbc.com/vietnamese/forum-39661721</guid>
+            <pubDate>Fri, 21 Apr 2017 13:24:14 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/6B47/production/_95736472_buivanphu_khanhly.jpg"/>
         </item>
         <item>
             <title><![CDATA[Việt Nam và tham vọng 'có Facebook' nội địa]]></title>
@@ -287,12 +271,28 @@
             <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/A3F8/production/_95667914_2.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Khóa kéo: Sáng chế tài tình thay thế khuy]]></title>
-            <description><![CDATA[Khóa kéo (phéc mơ tuya) đã làm thay đổi tất cả, từ thời trang đến thiết bị an toàn.]]></description>
-            <link>http://www.bbc.com/vietnamese/vert-fut-39567577</link>
-            <guid isPermaLink="true">http://www.bbc.com/vietnamese/vert-fut-39567577</guid>
-            <pubDate>Sat, 22 Apr 2017 09:09:14 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/F24C/production/_95582026_p04xl7q3-1.jpg"/>
+            <title><![CDATA[Đồng Tâm 'rào làng lập ấp' nhìn từ bên trong]]></title>
+            <description><![CDATA[Hình ảnh mới chụp ở xã Đồng Tâm, Hà Nội, nơi đang có bức xúc về đất đai giữa người dân và chính quyền.]]></description>
+            <link>http://www.bbc.com/vietnamese/vietnam-39660042</link>
+            <guid isPermaLink="true">http://www.bbc.com/vietnamese/vietnam-39660042</guid>
+            <pubDate>Thu, 20 Apr 2017 15:45:24 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/AC00/production/_95723044_hi039082511.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chùm ảnh về cuộc sống và con người Bắc Hàn]]></title>
+            <description><![CDATA[Mời các bạn xem một số hình ảnh về cuộc sống và con người Bắc Hàn.]]></description>
+            <link>http://www.bbc.com/vietnamese/world-39063573</link>
+            <guid isPermaLink="true">http://www.bbc.com/vietnamese/world-39063573</guid>
+            <pubDate>Thu, 23 Feb 2017 10:38:32 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/3017/production/_94811321_gettyimages-84810352.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Đồng Tâm 'cần trung gian của xã hội dân sự']]></title>
+            <description><![CDATA[LS Lê Công Định tin rằng để giải quyết vấn đề ở Đồng Tâm cần giải quyết tận gốc rế̃ và cần có trung gian của xã hội dân sự và các chuyên gia pháp lý.]]></description>
+            <link>http://www.bbc.com/vietnamese/vietnam-39673223</link>
+            <guid isPermaLink="true">http://www.bbc.com/vietnamese/vietnam-39673223</guid>
+            <pubDate>Fri, 21 Apr 2017 22:57:43 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/0639/production/_95739510_lecongdinhgettyimages-471402334.jpg"/>
         </item>
         <item>
             <title><![CDATA[Những biển báo hài hước ở Bhutan]]></title>
@@ -303,6 +303,14 @@
             <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/78B2/production/_95589803_2895be3d-66a5-449a-b613-191d82a4da08.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Khóa kéo: Sáng chế tài tình thay thế khuy]]></title>
+            <description><![CDATA[Khóa kéo (phéc mơ tuya) đã làm thay đổi tất cả, từ thời trang đến thiết bị an toàn.]]></description>
+            <link>http://www.bbc.com/vietnamese/vert-fut-39567577</link>
+            <guid isPermaLink="true">http://www.bbc.com/vietnamese/vert-fut-39567577</guid>
+            <pubDate>Sat, 22 Apr 2017 09:09:14 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/F24C/production/_95582026_p04xl7q3-1.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Bầu cử Tổng thống Pháp: Những điều đáng chú ý]]></title>
             <description><![CDATA[Cuộc bầu cử tổng thống Pháp 2017 thật khó đoán, với 11 ứng viên tranh đua trong vòng một ngày 23/4.]]></description>
             <link>http://www.bbc.com/vietnamese/world-39669480</link>
@@ -311,12 +319,20 @@
             <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/154E2/production/_95466278_frenchdebate.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Đồng Tâm 'rào làng lập ấp' nhìn từ bên trong]]></title>
-            <description><![CDATA[Hình ảnh mới chụp ở xã Đồng Tâm, Hà Nội, nơi đang có bức xúc về đất đai giữa người dân và chính quyền.]]></description>
-            <link>http://www.bbc.com/vietnamese/vietnam-39660042</link>
-            <guid isPermaLink="true">http://www.bbc.com/vietnamese/vietnam-39660042</guid>
-            <pubDate>Thu, 20 Apr 2017 15:45:24 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/AC00/production/_95723044_hi039082511.jpg"/>
+            <title><![CDATA['Đất đai là thiêng liêng đối với nông dân']]></title>
+            <description><![CDATA["Đất đai với người nông dân là thiêng liêng, người ta sẵn sàng sống chết vì mảnh đất đó," Tiến sỹ Hoàng Ngọc Giao lý giải câu chuyện Đồng Tâm.]]></description>
+            <link>http://www.bbc.com/vietnamese/vietnam-39668132</link>
+            <guid isPermaLink="true">http://www.bbc.com/vietnamese/vietnam-39668132</guid>
+            <pubDate>Fri, 21 Apr 2017 14:59:33 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/17AB9/production/_95735969_gettyimages-635589102.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chính sách đất đai và câu chuyện Đồng Tâm]]></title>
+            <description><![CDATA[Tọa đàm của các tổ chức dân sự tại Hà Nội nói tới thực trạng chính sách và luật đất đai trong bối cảnh tranh chấp đất đai tại Đồng Tâm vẫn tiếp tục căng thẳng.]]></description>
+            <link>http://www.bbc.com/vietnamese/vietnam-39671333</link>
+            <guid isPermaLink="true">http://www.bbc.com/vietnamese/vietnam-39671333</guid>
+            <pubDate>Fri, 21 Apr 2017 15:34:04 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/FAB7/production/_95738146_land_dialogue_panel.png"/>
         </item>
         <item>
             <title><![CDATA[Đoàn Văn Vươn 'sẵn sàng hòa giải vụ Đồng Tâm']]></title>
@@ -341,14 +357,6 @@
             <guid isPermaLink="true">http://www.bbc.com/vietnamese/vietnam-39600436</guid>
             <pubDate>Fri, 14 Apr 2017 14:00:27 GMT</pubDate>
             <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/6BF2/production/_95643672_1425371_686650251357285_254361091_o.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Làm sao phát hiện một người tìm việc nói dối]]></title>
-            <description><![CDATA[Tất cả chúng ta, đôi khi, nói phóng đại và nói nửa sự thật. Nhưng bạn có thể tìm ra ai có nhiều khả năng nói dối nhất trước khi họ trở thành đồng nghiệp của mình?]]></description>
-            <link>http://www.bbc.com/vietnamese/vert-cap-39667992</link>
-            <guid isPermaLink="true">http://www.bbc.com/vietnamese/vert-cap-39667992</guid>
-            <pubDate>Fri, 21 Apr 2017 11:14:25 GMT</pubDate>
-            <media:thumbnail width="660" height="371" url="http://c.files.bbci.co.uk/13E7D/production/_95733518__93857698_whatsubject-1.jpg"/>
         </item>
         <item>
             <title><![CDATA[Mối hiểm nguy chết người ngay dưới chân]]></title>
